@@ -1,0 +1,11 @@
+.qtyInput{
+  width:50px;
+  border-radius: 10px;
+  border-color: blue;
+  background-color: white;
+  align-items: center;  
+  text-align: center;
+  color: blue;
+  font-weight: bolder;
+  font-size:large;
+}
